@@ -1,0 +1,2 @@
+This is my second new file
+And, it has 2 lines.
